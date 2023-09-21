@@ -1,0 +1,3 @@
+/home/burnout/projects/prac_c/hydrogen/build/CMakeFiles/hydro.dir
+/home/burnout/projects/prac_c/hydrogen/build/CMakeFiles/edit_cache.dir
+/home/burnout/projects/prac_c/hydrogen/build/CMakeFiles/rebuild_cache.dir
