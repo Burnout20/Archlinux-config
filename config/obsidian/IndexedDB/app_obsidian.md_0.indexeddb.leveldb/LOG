@@ -1,0 +1,18 @@
+2023/09/26-09:50:47.793 4fe3 Reusing MANIFEST /home/burnout/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/26-09:50:47.793 4fe3 Recovering log #3
+2023/09/26-09:50:47.799 4fe3 Reusing old log /home/burnout/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000003.log 
+2023/09/26-09:50:47.817 502d Level-0 table #5: started
+2023/09/26-09:50:47.820 502d Level-0 table #5: 99395 bytes OK
+2023/09/26-09:50:47.822 502d Delete type=0 #3
+2023/09/26-09:50:47.822 4fe3 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/09/26-09:50:47.823 4fe3 Level-0 table #7: started
+2023/09/26-09:50:47.825 4fe3 Level-0 table #7: 14724 bytes OK
+2023/09/26-09:50:47.826 4fe3 Delete type=0 #4
+2023/09/26-09:50:47.826 4fe3 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/09/26-09:50:47.826 4fe3 Manual compaction at level-1 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at '\x00\x02\x02\x02\x01@\x00e\x002\x000\x003\x00e\x001\x006\x006\x006\x009\x00e\x00f\x000\x003\x00f\x00a\x006\x00c\x00f\x009\x003\x007\x00e\x00a\x00f\x001\x007\x00a\x007\x002\x00d\x007\x00c\x006\x00f\x00a\x008\x004\x00f\x002\x005\x00d\x005\x009\x00e\x00e\x003\x00a\x003\x001\x00d\x003\x007\x000\x005\x006\x008\x002\x00a\x003\x00b\x007\x00b\x00e' @ 5605 : 0
+2023/09/26-09:50:47.826 4fe3 Compacting 1@1 + 1@2 files
+2023/09/26-09:50:47.828 4fe3 Generated table #8@1: 6 keys, 272 bytes
+2023/09/26-09:50:47.828 4fe3 Compacted 1@1 + 1@2 files => 272 bytes
+2023/09/26-09:50:47.829 4fe3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/26-09:50:47.830 4fe3 Delete type=2 #7
+2023/09/26-09:50:47.830 4fe3 Manual compaction at level-1 from '\x00\x02\x02\x02\x01@\x00e\x002\x000\x003\x00e\x001\x006\x006\x006\x009\x00e\x00f\x000\x003\x00f\x00a\x006\x00c\x00f\x009\x003\x007\x00e\x00a\x00f\x001\x007\x00a\x007\x002\x00d\x007\x00c\x006\x00f\x00a\x008\x004\x00f\x002\x005\x00d\x005\x009\x00e\x00e\x003\x00a\x003\x001\x00d\x003\x007\x000\x005\x006\x008\x002\x00a\x003\x00b\x007\x00b\x00e' @ 5605 : 0 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
